@@ -1,4 +1,4 @@
-# IMPACT OF TEMPERATURE ON ELECTRICITY CONSUMPTION PATTERN IN ALBERTA, CANADA
+# Impact of Temperature on Electricity Consumption Pattern in Alberta, Canada
 Completion date (DD/MM/YYYY): 03/11/2024
 
 ## 1. Background
