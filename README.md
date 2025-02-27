@@ -13,9 +13,11 @@ The connection between temperature and electricity consumption is a well-establi
 
 3. How do winter cold snaps impact regional electricity consumption, and how does this vary across regions?
 
-## Methodology
+## 2. Methodology
 
 This study examines the relationship between temperature fluctuations and electricity consumption across nine Alberta Electric System Operator (AESO) regions from 2011 to 2018. The methodology involves the following key steps:
+
+#### The Software package used for this project is "R"
 
 - Data Preparation: 
    - Data Import and Cleaning
@@ -37,7 +39,7 @@ This study examines the relationship between temperature fluctuations and electr
   
   - Visualization Strategy
       - Created spatial visualizations (maps) using sf and ggplot2 to show regional variations in electricity consumption and temperature.
-      - Developed time series and bar graphs to analyze trends in temperature and electricity usage over time and assess seasonal impacts.
+      - Developed time series and clustered bar graphs to visualize the trends in temperature and electricity usage over time and assess seasonal impacts.
 
   - Econometric Analysis
      - Conducted regression analysis to evaluate the impact of seasonal temperature extremes (summer and winter) on electricity consumption.
@@ -45,7 +47,18 @@ This study examines the relationship between temperature fluctuations and electr
      - Analyzed the overall impact of summer and winter temperatures on electricity consumption.
      - Applied log transformation to summer data to normalize distribution and stabilize variance, while avoiding log transformation for winter data due to negative values.
 
-###### For full details of the methodology, please read the report in this file attached 
+
+###### _For full details of the methodology, please read the report in this file attached_: [aeso_report.pdf](resources/aeso_report.pdf)
+
+## 3. Results 
+
+###### _The results can be found in the report attached: [aeso_report.pdf](resources/aeso_report.pdf)_
 
 
+## 4. APPENDIX
+
+- The data used for this project is available at  [aeso_data.zip](resources/data.zip)
+- The R script, which includes step-by-step codes and comments for running all the analysis for the project, is available [here](resources/aeso_Rscript.R)
+- The output of the analysis on R in ```.html``` is available [here](resources/aeso_output.html)
+- All visual outputs from the analysis are also available at [here](resources/aeso_viz.zip)
 
