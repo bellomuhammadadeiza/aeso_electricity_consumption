@@ -7,3 +7,11 @@ The connection between temperature and electricity consumption is a well-establi
 
 ## 1.1 Research Questions
 
+1. What is the relationship between average summer and winter temperatures and per capita electricity consumption across different regions?
+
+2. How do summer temperature spikes impact regional electricity consumption, and how does this vary across regions?
+
+3. How do winter cold snaps impact regional electricity consumption, and how does this vary across regions?
+
+
+
