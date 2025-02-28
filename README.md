@@ -55,7 +55,7 @@ This study examines the relationship between temperature fluctuations and electr
 ###### _The results can be found in the report attached: [aeso_report.pdf](resources/aeso_report.pdf)_
 
 
-## 4. APPENDIX
+## 4. Appendix
 
 - The data used for this project is available at  [aeso_data.zip](resources/data.zip)
 - The R script, which includes step-by-step codes and comments for running all the analysis for the project, is available [here](resources/aeso_Rscript.R)
